@@ -4,7 +4,7 @@ The Room Standard 1.0.0
 Summary
 -------
 
-When a consumer orders a hot beverage from a provider and there is a verbal exchange about leaving room in the container for a condiment such as cream or milk:
+The Room Standard establishes a simple convention for talking about room for cream. When a consumer orders a hot beverage from a provider and there is a verbal exchange about leaving room in the container for a condiment such as cream or milk:
 
 1. Room is specified as a number of units from the top or from the lid.
 1. A unit of room is a vertical measurement about equal to the width of a standard #2 pencil.
