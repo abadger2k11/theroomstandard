@@ -34,7 +34,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 1. The top is the point on the container at which the container, when placed in a stable position on a flat stable surface, would begin to overflow upon the introduction of additional contents.
 1. When room is specified in the form "N from the top", room MUST be provisioned in the number of units specified, measured vertically from the top.
 1. The lid is the matching accessory fitting in or over and covering the top, which may take up some of the space below the top.
-1. When room is specifed in the form "N from the lid", room MUST be provisioned in the number of units specified, measured vertically from the lower extremity of the space occupied by the lid.
+1. When room is specified in the form "N from the lid", room MUST be provisioned in the number of units specified, measured vertically from the lower extremity of the space occupied by the lid.
 
 About
 -----
